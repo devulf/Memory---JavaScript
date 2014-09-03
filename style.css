@@ -1,0 +1,42 @@
+﻿body 
+{
+    background-image:url(bg.png);
+    
+    width: 960px;
+    
+}
+
+#logo
+{
+    background: url(logo.png);
+    width: 735px;
+    height: 109px;
+    margin-left: 340px;
+}
+
+
+
+#memshow
+{
+    width: 700px;
+    margin-left: 400px;
+ 
+}
+
+.pic
+{
+    background: none repeat scroll 0 0 black;
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.1); 
+    -moz-border-radius: 15px;
+    border-radius: 15px;
+    padding: 2px;
+    
+   }
+
+
+
+
+
+
+
+
